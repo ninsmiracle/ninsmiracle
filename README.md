@@ -19,17 +19,12 @@ Here are some ideas to get you started:
 - ⚡ Languages:
   - C++ / Go / Python
   
-### 🚀 Projects
+- 🚀 Projects
 
-- **Apache Pegasus**  
-  A distributed key-value storage system which is horizontally scalable and strongly consistent.
----
-
-我将开源更多有意思的AI小项目，尽请关注~
-I will be open-sourcing more interesting AI projects, so please stay tuned!
+  -- **Apache Pegasus**  
+    A distributed key-value storage system which is horizontally scalable and strongly consistent.
 
 
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ninsmiracle&show_icons=true)
+  我将开源更多有意思的AI小项目，尽请关注~
+  I will be open-sourcing more interesting AI projects, so please stay tuned!
 -->
