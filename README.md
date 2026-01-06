@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on BeiJing XiaoMi now.
+- 🔭 I’m currently working and living in BeiJing now.
 - 👯 I’m looking to collaborate on who is interest in AI agent or AI hardware.
 
 - 📫 How to reach me: ninsmiracle@gmail.com
