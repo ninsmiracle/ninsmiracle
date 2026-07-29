@@ -1,61 +1,36 @@
 <h1 align="center">郭铁蛋 · Guo Tiedan</h1>
 
-<p align="center">
-  <strong>把不太正经的脑洞，认真做成能跑、能学、能复刻的小项目。</strong>
-  <br>
-  <em>I turn odd little ideas into practical, playful builds you can run, learn from, and recreate.</em>
-</p>
+你好，我是郭铁蛋。铁蛋其实是我家的小猫咪。
 
-<p align="center">
-  AI Agents · Open Hardware · 3D Printing · Cat Tech · Creative Coding
-</p>
+我写过几年分布式存储系统代码。现在主要在做 AI、开源硬件，还有一些我自己想用、觉得好玩的工具。东西做出来以后，我会把代码、安装方法和踩过的坑放在这里。
 
----
+*Hi, I'm Guo Tiedan. Tiedan is actually my cat.*
 
-## 你好，我是郭铁蛋 👋
+*I spent several years writing code for distributed storage systems. These days I mostly work on AI, open hardware, and small tools I want to use myself. When something is ready, I share the code, setup notes, and the mistakes I made along the way here.*
 
-我的技术底座来自分布式系统与存储。现在主要折腾 AI Agent、开源硬件、3D 打印、猫科技，以及一切“这也能做出来？”的小东西。
-
-这里不是技术栈陈列柜。项目跑通以后，我会把源码、模型、接线图、材料清单和复刻教程留在这里。
-
-*Hi, I'm Guo Tiedan. My engineering roots are in distributed systems and storage. These days I build AI agents, open hardware, 3D-printed objects, cat-powered experiments, and other things that make people ask, “Wait, you can actually build that?”*
-
-*This is where the working code, models, wiring diagrams, bills of materials, and build guides live.*
-
-> 人负责做，铁蛋负责验收。<br>
-> *I build. Tiedan the cat handles quality control.*
-
-## 精选项目 · Featured Builds
+## 项目 · Projects
 
 - **[YareLampGo](https://github.com/ninsmiracle/YareLampGo)**<br>
-  一盏能听、能看、会动、还会用表情回应你的开源桌面 AI 机械臂台灯。软件、固件、接线资料和 V2 结构总成均已公开。<br>
-  *An open-source embodied AI desk lamp that can listen, see, move, and respond with expressions. Software, firmware, wiring docs, and the V2 mechanical assembly are public.*
+  我正在做的一盏开源桌面 AI 机械臂台灯。它有摄像头、麦克风、电机和屏幕，能看、能听、能动，也能接入 Codex。软件、固件、接线和 V2 结构都在仓库里。<br>
+  *An open-source desktop AI lamp with a camera, microphone, motors, and displays. It can see, hear, move, and work with Codex. The software, firmware, wiring docs, and V2 mechanical design are in the repo.*
+
+- **[Apache Pegasus](https://github.com/apache/pegasus)**<br>
+  一个用 C++ 写的分布式 Key-Value 存储系统。我在这个项目上写过几年代码。<br>
+  *A distributed key-value storage system written in C++. I spent several years working on it.*
 
 - **[Obsidian AI Memory](https://github.com/ninsmiracle/obsidian_memory_template)**<br>
-  给 Codex 和 AI Agent 装一个不会每次重来的长期记忆系统：写前去重、Markdown 保存、下次受控召回。<br>
-  *A lightweight long-term memory skill for Codex and AI agents, with deduplication, Markdown-first storage, and controlled recall.*
+  给 AI Agent 用的 Obsidian 长期记忆 Skill。我把自己在用的记忆流程整理成了一个更容易安装和复刻的基础版本。<br>
+  *An Obsidian long-term memory skill for AI agents, based on the workflow I use myself and packaged into a simpler version others can set up.*
 
 - **[猫猫霸屏 · Cat Gatekeeper](https://github.com/ninsmiracle/cat-gatekeeper-cn)**<br>
-  刷网站太久，猫就接管屏幕。可以换成自家猫的轻量 Chrome 插件。<br>
-  *Stay on a distracting website too long and a cat takes over your screen. A lightweight Chrome extension you can customize with your own cat.*
-
-- **[燕云木鸟实体化 · Yanyun Wooden Bird](https://github.com/ninsmiracle/yysls-zhoujiu)**<br>
-  把《燕云十六声》里的木鸟搬到桌面，用 ESP32-S3 和舵机让它真的扇起翅膀。<br>
-  *A physical recreation of the wooden bird from Where Winds Meet, brought to life with an ESP32-S3 and servos.*
-
-## 技术底座 · Engineering Foundation
-
-我长期参与 **[Apache Pegasus](https://github.com/apache/pegasus)**：一个水平扩展、强一致、高性能的分布式 Key-Value 存储系统。
-
-这段经历给了我一套很朴素的做事方式：东西不仅要有意思，也要真的能跑、能查、能复现。
-
-*I have been a long-term contributor to **[Apache Pegasus](https://github.com/apache/pegasus)**, a horizontally scalable, strongly consistent, high-performance distributed key-value store.*
-
-*It shaped a simple rule I still follow: a project should not only be interesting—it should run, be inspectable, and be reproducible.*
-
-`C++` · `Go` · `Python`
+  刷网站太久，猫就会跳出来挡住屏幕。一个很轻的 Chrome 插件，也可以换成你自己家的猫。<br>
+  *Stay on a distracting website too long and a cat jumps in front of the page. It's a small Chrome extension that you can customize with your own cat.*
 
 ## 小红书 · Xiaohongshu / RED
+
+我在小红书也叫 **@郭铁蛋**，主要发这些项目的成品、制作过程和教程。
+
+*I'm also **@郭铁蛋** on Xiaohongshu / RED, where I post demos, build logs, and tutorials for these projects.*
 
 <p align="center">
   <a href="https://www.xiaohongshu.com/user/profile/5eb5779b0000000001003267?xhsshare=userQrCode">
@@ -68,19 +43,9 @@
 </p>
 
 <p align="center">
-  <strong>小红书 @郭铁蛋</strong>
-  <br>
-  成品、制作过程和翻车现场都在这里。
-  <br>
-  <em>Watch the finished builds, behind-the-scenes process, and honest failures on Xiaohongshu / RED.</em>
-  <br>
   <a href="https://www.xiaohongshu.com/user/profile/5eb5779b0000000001003267?xhsshare=userQrCode">手机正在看？直接点这里 · Open the profile directly</a>
 </p>
 
 ---
-
-如果你也喜欢实用教程和有意思的小东西，欢迎点一下 **Follow**。下一个被做出来的脑洞，可能刚好来自你的建议。
-
-*If you enjoy useful tutorials and playful builds, follow along. The next odd idea I turn into a working project might come from your suggestion.*
 
 **合作 / Collaboration:** [ninsmiracle@gmail.com](mailto:ninsmiracle@gmail.com)
